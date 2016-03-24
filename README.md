@@ -13,7 +13,8 @@ This project was an assesment for the module of Object Oriented Programming in t
 
 ## Contributors
 
-Fernando Diaz Caballero fdiazcaballero@gmail.com
+Fernando Diaz Caballero fdiazcaballero@gmail.com  
+Taoufik Aadia
 
 ## License
 
